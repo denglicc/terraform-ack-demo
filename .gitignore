@@ -1,0 +1,6 @@
+# Terraform 忽略规则
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
